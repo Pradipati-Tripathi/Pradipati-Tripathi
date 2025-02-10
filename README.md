@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **pradipati@gmail.com**
+- 📫 How to reach me **pradipati77@gmail.com**
 
 - 📄 Know about my experiences [Fresher](Fresher)
 
